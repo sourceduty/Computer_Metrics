@@ -1,4 +1,4 @@
-![Computer Metrics](https://github.com/user-attachments/assets/5a5be1bd-1b78-43aa-adef-44e581c998f0)
+![Computer Metrics](https://github.com/user-attachments/assets/3503a28e-a5d6-46f3-9cca-ba723c947d65)
 
 > Measure computer performance metrics using Python.
 #
